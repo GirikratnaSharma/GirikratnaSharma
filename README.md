@@ -27,13 +27,12 @@
   <tr>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GirikratnaSharma&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
    </tr> 
-   <tr>
+<!--    <tr>
       <td><img src="https://activity-graph.herokuapp.com/graph?username=GirikratnaSharma&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true"  display=block width=100% height=auto alt="3" ></td>
-  </tr>
+  </tr> -->
 </table>
 
 <h2 align="left">🔗Connect with me:</h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/girikratna-sharma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Girikratna-Sharma" height="30" width="40" /></a>
-<a href="https://www.instagram.com/girik_sharma21/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Girikratna_Sharma_Insta" height="30" width="40" /></a>
 </p>
