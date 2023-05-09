@@ -1,10 +1,9 @@
 <h1 align = "center">Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">, I am Girikratna Sharma</h1>
-<h4 align = "center">An IT Student, Interested in Tech, Music and absolutly anything related to Space! For me IT has a greater scope when mixed with other domains! Scroll 👇 for my open source projects and contributions!</h3>
-- 🔭 I’m currently working on Flutter and Android Apps
-- 🌱 I’m currently learning ML,AI 
-- 👯 I’m looking to collaborate on anything Tech :)
+<h4 align = "center">A Student who's extremely curious and has a particular interest in the domain of AGI and Deep Learning, Scroll 👇 for my open source projects and contributions!</h3>
+- 🔭 I’m currently working with Python and Automation Tools
+- 🌱 I’m currently learning Deep Learning 
+- 👯 I’m looking to collaborate on ANN
 - 📫 How to reach me: girikratnasharma@gmail.com
-- ⚡ Fun fact: Richard Feynman had an IQ of 125!
 
 ![](https://komarev.com/ghpvc/?username=GirikratnaSharma)   
 
